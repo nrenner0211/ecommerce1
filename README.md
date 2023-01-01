@@ -19,7 +19,10 @@ A simple front-end e-commerce webpage with React. I used [this](https://www.yout
 
 ## Tech Stack
 
+- JavaScript
 - React
+- Sass
+- Yarn
 
 ## Installation
 
